@@ -1,0 +1,84 @@
+
+html{
+    margin: 0px;
+    padding: 0px;
+    height: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 0px;
+    background-color: rgb(248, 246, 229);
+}
+
+.my-nav{
+    background-color: #ab3ed8;
+}
+
+.my-align-text{
+    text-align: center;
+    font-size: smaller;
+}
+
+
+.my-align-icon{
+    text-align: center;
+}
+
+.my-lnav{
+    display: block;
+    position: absolute;
+    top: 5.2%;
+    width: 80px;
+    height: 93.3%;
+    background-color: #5dc1b9;
+}
+
+.my-lnav-item {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 20px 0px 15px 0px;
+    text-decoration: none;
+}
+
+.my-lnav-tab a.active {
+    background-color: #9031b9;
+    color: white;
+}
+
+.my-lnav-item:hover:not(.active) {
+    background-color: #66d4cb;
+    color: rgb(0, 0, 0);
+}
+
+.nav-wrapper .input-field input[type=search] {
+    height: 63.3px !important;
+    padding-left: 4rem;
+    width: calc(100% - 4rem);
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+nav .input-field label i {
+    color: rgba(255, 255, 255);
+}
+
+form{
+    display: flex;
+    justify-content: end;
+}
+
+.my-label-search{
+    display: flex;
+    justify-content: end;
+}
+
+.my-search-icon{
+    display: flex;
+}
+
+.my-logo{
+    margin-left: 200px;
+}
