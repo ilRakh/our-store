@@ -9,7 +9,9 @@ body{
     margin: 0px;
     padding: 0px;
     height: 0px;
-    background-color: rgb(248, 246, 229);
+    /* background-color: rgb(0, 0, 0); */
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondocolores.gif);
+    background-size: cover;
 }
 
 .my-nav{
