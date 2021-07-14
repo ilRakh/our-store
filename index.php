@@ -111,27 +111,87 @@
   
     <div class="carousel carousel-slider center">
         <div class="carousel-fixed-item center">
-            <a class="btn waves-effect white grey-text darken-text-2">button</a>
         </div>
         <div class="carousel-item red white-text" href="#one!">
-            <h2>First Panel</h2>
-            <p class="white-text">This is your first panel</p>
+            <h2>Sorteo</h2>
         </div>
         <div class="carousel-item amber white-text" href="#two!">
-            <h2>Second Panel</h2>
-            <p class="white-text">This is your second panel</p>
+            <h2>Oferta 1</h2>
         </div>
         <div class="carousel-item green white-text" href="#three!">
-            <h2>Third Panel</h2>
-            <p class="white-text">This is your third panel</p>
+            <h2>Promocion</h2>
         </div>
         <div class="carousel-item blue white-text" href="#four!">
-            <h2>Fourth Panel</h2>
-            <p class="white-text">This is your fourth panel</p>
+            <h2>Oferta 2</h2>
         </div>
     </div>
 
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+    <br><br><br><br><br>
+
+    <div class="row">
+        <div class="col l2"></div>
+        <div class="col l8">
+            <h4>Seccion 1</h4>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col l2"></div>
+        <div class="col l2">
+            <section class="prod-section-type-1">
+                <div class="prod-preview valign-wrapper">
+                    <h5 class="texto-prueba">Producto</h5>
+                </div>
+            </section>
+        </div>
+        <div class="col l2">
+            <section class="prod-section-type-1">
+                <div class="prod-preview valign-wrapper">
+                    <h5 class="texto-prueba">Producto</h5>
+                </div>
+            </section>
+        </div>
+        <div class="col l2">
+            <section class="prod-section-type-1">
+                <div class="prod-preview valign-wrapper">
+                    <h5 class="texto-prueba">Producto</h5>
+                </div>
+            </section>
+        </div>
+        <div class="col l2">
+            <section class="prod-section-type-1">
+                <div class="prod-preview valign-wrapper">
+                    <h5 class="texto-prueba">Producto</h5>
+                </div>
+            </section>
+        </div>
+
+    </div>
+
+    <br><br>
+
+
+    <div class="row">
+        <div class="col l2"></div>
+        <div class="col l8">
+            <h4>Seccion 2</h4>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col l2"></div>
+        <div class="col l8">
+            <section class="prod-section-type-2">
+                <div class="prod-preview  valign-wrapper">
+                    <h5 class="texto-prueba">Producto</h5>
+                </div>
+            </section>
+        </div>
+    </div>
+
+
+
+    <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
