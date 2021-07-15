@@ -12,8 +12,6 @@
     <title>Document</title>
 </head>
 <body>
-
-    <h1>PUTO TALLERES</h1>
     
     <nav class="my-nav">
         <div class="nav-wrapper">
