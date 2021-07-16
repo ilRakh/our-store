@@ -70,6 +70,7 @@
                 </div>
                 <div class="my-align-text">
                     <i>Videojuegos</i>
+                    
                 </div>
             </a>
         </li>
@@ -94,6 +95,7 @@
             </a>
         </li>
     </ul>
+    <h2>holaaaa</h2>
   
     
     
