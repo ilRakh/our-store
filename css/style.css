@@ -2,18 +2,16 @@
 html{
     margin: 0px;
     padding: 0px;
-    height: 0px;
 }
 
 body{
     margin: 0px;
     padding: 0px;
-    height: 0px;
-    background-color: rgb(0, 0, 0);
+    background-color: #f0f1e4;
 }
 
 .my-nav{
-    background-color: #ab3ed8;
+    background-color: #9b39c5;
 }
 
 .my-align-text{
@@ -28,12 +26,15 @@ body{
 
 .my-lnav{
     display: block;
-    position: absolute;
+    position: fixed;
     top: 5.2%;
     width: 80px;
     height: 93.3%;
-    background-color: #5dc1b9;
+    background-color: #53a7a0;
+    box-shadow: 0 0px 5px 0 rgba(0, 0, 0, 0.14), 0 0px 5px 0px rgba(0, 0, 0, 0.12), 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+    z-index: 200;
 }
+
 
 .my-lnav-item {
     display: block;
@@ -81,4 +82,56 @@ form{
 
 .my-logo{
     margin-left: 200px;
+}
+
+.my-sidenav{
+    background-color: #53a7a0;
+}
+
+.my-sidenav li a{
+    color: #ffffff;
+
+}
+
+.prod-section-type-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.prod-section-type-2{
+    display: flex;
+    justify-content: center;
+}
+
+.prod-section-type-3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.prod-section-type-1 .prod-preview{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: #ab3ed8;
+    justify-content: center;
+}
+
+.prod-section-type-2 .prod-preview{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: #ab3ed8;
+    justify-content: center;
+}
+
+.prod-section-type-3 .prod-preview{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: #ab3ed8;
+    justify-content: center;
+}
+
+.texto-prueba{
+    display: flex;
 }
